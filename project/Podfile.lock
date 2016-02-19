@@ -1,0 +1,16 @@
+PODS:
+  - Alamofire (3.1.2)
+  - IQKeyboardManager (3.3.4)
+  - ModelRocket (1.2.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 3.0)
+  - IQKeyboardManager
+  - ModelRocket
+
+SPEC CHECKSUMS:
+  Alamofire: 7c16ca65f3c7e681fd925fd7f2dec7747ff96855
+  IQKeyboardManager: ac803e61e5b50efae6b3aeedd95a02c7c7d3b2b3
+  ModelRocket: 71a037ed1f96d69745861a35c40ed1a55cdf5d94
+
+COCOAPODS: 0.39.0

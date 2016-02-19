@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<dict>
+			<key>title</key>
+			<string>我的就诊人</string>
+			<key>class</key>
+			<string>PatientListViewController</string>
+			<key>image</key>
+			<string>hosp_home_paitent</string>
+			<key>bgColor</key>
+			<string>c4d34a</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>我关注的医生</string>
+			<key>class</key>
+			<string>FollowingDoctorListViewController</string>
+			<key>image</key>
+			<string>personDoctor</string>
+			<key>bgColor</key>
+			<string>5395cd</string>
+		</dict>
+		<dict>
+			<key>title</key>
+			<string>设置</string>
+			<key>class</key>
+			<string>SettingViewController</string>
+			<key>image</key>
+			<string>personSetting</string>
+			<key>bgColor</key>
+			<string>5395cd</string>
+		</dict>
+	</array>
+</array>
+</plist>

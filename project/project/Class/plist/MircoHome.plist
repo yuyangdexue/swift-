@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>background</key>
+		<string>ffb403</string>
+		<key>title</key>
+		<string>医院介绍</string>
+		<key>image</key>
+		<string>mirco_hospital.png</string>
+		<key>class</key>
+		<string>HospitalDetailViewController</string>
+		<key>authen</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>7dd34a</string>
+		<key>title</key>
+		<string>科室介绍</string>
+		<key>image</key>
+		<string>mirco_administrative.png</string>
+		<key>class</key>
+		<string>DeptListViewController</string>
+		<key>authen</key>
+		<string>NO</string>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>fc6f4b</string>
+		<key>title</key>
+		<string>就诊指南</string>
+		<key>image</key>
+		<string>mirco_guide.png</string>
+		<key>class</key>
+		<string>HospitalGuideViewController</string>
+		<key>authen</key>
+		<string>NO</string>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>26d7cd</string>
+		<key>title</key>
+		<string>导航</string>
+		<key>image</key>
+		<string>mirco_local.png</string>
+		<key>class</key>
+		<string></string>
+		<key>authen</key>
+		<string>NO</string>
+	</dict>
+	<dict>
+		<key>background</key>
+		<string>c5d34a</string>
+		<key>title</key>
+		<string>就医纪录</string>
+		<key>image</key>
+		<string>mirco_notes.png</string>
+		<key>class</key>
+		<string></string>
+		<key>authen</key>
+		<true/>
+	</dict>
+</array>
+</plist>

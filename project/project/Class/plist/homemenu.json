@@ -1,0 +1,77 @@
+{
+    "items": [
+        {
+            "background": "ffb403",
+            "title": "预约挂号",
+            "image": "hosp_home_register.png",
+            "image_hl": "hosp_home_register_disable.png",
+            "key": "hospital_list",
+            "authen": 0,
+            "disabled": 0
+        },
+        {
+            "background": "ffb403",
+            "title": "挂号历史",
+            "image": "hosp_home_register_history.png",
+            "image_hl": "hosp_home_register_history_disable.png",
+            "key": "register_history",
+            "authen": 1,
+            "disabled": 0
+        },
+        {
+            "background": "26d7cd",
+            "title": "智能导诊",
+            "image": "hosp_home_Intelligentguide.png",
+            "image_hl": "hosp_home_Intelligentguide_disable.png",
+            "key": "guide_home",
+            "authen": 0,
+            "disabled": 0
+        },
+        {
+            "background": "7dd34a",
+            "title": "候诊排队",
+            "image": "hosp_home_queue.png",
+            "image_hl": "hosp_home_queue_disable.png",
+            "key": "queue_list",
+            "authen": 1,
+            "disabled": 0
+        },
+        {
+            "background": "26cad7",
+            "title": "缴费",
+            "image": "hosp_home_pay.png",
+            "image_hl": "hosp_home_pay_disable.png",
+            "key": "bill_list",
+            "authen": 1,
+            "disabled": 0
+        },
+        {
+            "background": "fc6f4b",
+            "title": "化验单",
+            "image": "hosp_home_lab.png",
+            "image_hl": "hosp_home_lab_disable.png",
+            "key": "assay_list",
+            "authen": 1,
+            "disabled": 0
+        },
+        {
+            "background": "c5d34a",
+            "title": "就诊人",
+            "image": "hosp_home_paitent.png",
+            "image_hl": "hosp_home_paitent_disable.png",
+            "key": "patient_home",
+            "authen": 1,
+            "disabled": 0
+        },
+        {
+            "background": "60cbea",
+            "title": "关注医生",
+            "image": "person_Doctor.png",
+            "image_hl": "person_Doctor.png",
+            "key": "doctor_follow",
+            "authen": 1,
+            "disabled": 0
+          }
+
+    ]
+}

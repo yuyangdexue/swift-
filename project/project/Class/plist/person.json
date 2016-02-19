@@ -1,0 +1,19 @@
+{
+    "items": [
+              {
+              "title": "我的就诊人",
+              "key": "patient_home",
+              "image": "hosp_home_paitent"
+             },
+              {
+              "title": "我关注的医生",
+              "key": "doctor_follow",
+              "image": "person_doctor"
+              },
+              {
+              "title": "设置",
+              "key": "setting_home",
+              "image": "person_setting"
+              }
+              ]
+}

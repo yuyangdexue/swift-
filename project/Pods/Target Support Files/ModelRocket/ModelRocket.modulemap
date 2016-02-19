@@ -1,0 +1,6 @@
+framework module ModelRocket {
+  umbrella header "ModelRocket-umbrella.h"
+
+  export *
+  module * { export * }
+}

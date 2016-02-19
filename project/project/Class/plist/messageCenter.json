@@ -1,0 +1,40 @@
+{
+    "item_height": 75,
+    "items": [
+        {
+            "type": "registered",
+            "title": "预约挂号",
+            "image": "timeline_register",
+            "key": "msg_list",
+            "authen": 1
+        },
+        {
+            "type": "queue",
+            "title": "叫号提醒",
+            "image": "timeline_queue",
+            "key": "msg_list",
+            "authen": 1
+        },
+        {
+            "type": "assay",
+            "title": "化验单提醒",
+            "image": "timeline_assay",
+            "key": "msg_list",
+            "authen": 1
+        },
+        {
+            "type": "account",
+            "title": "缴费提醒",
+            "image": "timeline_pay",
+            "key": "msg_list",
+            "authen": 1
+        },
+        {
+            "type": "system",
+            "title": "系统提醒",
+            "image": "timeline_setting",
+            "key": "msg_list",
+            "authen": 1
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "item_span": 0,
+    "items": [
+        {
+            "background": "ffb403",
+            "title": "医院介绍",
+            "image": "mirco_hospital.png",
+            "image_hl": "mirco_hospital.png",
+            "key": "hospital_instroduce",
+            "authen": 0,
+            "disabled": 0
+        },
+        {
+            "background": "ffb403",
+            "title": "科室介绍",
+            "image": "mirco_administrative.png",
+            "image_hl": "mirco_administrative.png",
+            "key": "department_list",
+            "authen": 0,
+            "disabled": 0
+        },
+        {
+            "background": "26d7cd",
+            "title": "就诊指南",
+            "image": "mirco_guide.png",
+            "image_hl": "mirco_guide.png",
+            "key": "hospital_guide",
+            "authen": 0,
+            "disabled": 0
+        },
+        {
+            "background": "7dd34a",
+            "title": "导航",
+            "image": "mirco_local.png",
+            "image_hl": "mirco_local.png",
+            "key": "hosital_map",
+            "authen": 0,
+            "disabled": 0
+        },
+        {
+            "background": "26cad7",
+            "title": "就医纪录",
+            "image": "mirco_notes.png",
+            "image_hl": "mirco_notes.png",
+            "key": "hospital_recordList",
+            "authen": 1,
+            "disabled": 0
+        }
+    ]
+}

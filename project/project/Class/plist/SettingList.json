@@ -1,0 +1,43 @@
+
+
+{
+    "item1":[
+              {
+              "title" : "去appstore评分！",
+              "img" : "ico_setting_comment",
+              "selector" : "gotoGrade"
+              },
+              {
+              "title" : "意见反馈",
+              "img" : "ico_setting_advice",
+              "class" : "FeedbackViewController",
+              "authorized" : "0"
+              },
+              {
+              "title" : "欢迎页",
+              "img" : "icon_welcome",
+              "class" : "WalkthoughtViewController",
+              "animated" : "modal",
+              "authorized" : "0"
+              },
+              {
+              "title" : "关于乐医",
+              "img" : "ico_setting_about",
+              "class" : "AboutLeyiViewController",
+              "authorized" : "0"
+              },
+              {
+              "title" : "客服电话",
+              "img" : "support@2x"
+              }
+              ],
+        "item2":[
+          {
+          "title" : "退出登录",
+          "selector" : "logout",
+          "prompt" : "您确定要退出吗？"
+          }
+          ]
+    
+
+}

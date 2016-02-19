@@ -1,0 +1,67 @@
+{
+    "items": [
+               {
+               "key" : "name",
+               "title" : "姓名",
+               "placeholder" : "请输入真实姓名",
+               "type" : "text"
+               },
+               {
+               "key" : "idtype",
+               "title" : "证件类型",
+               "placeholder" : "请选择证件类型",
+               "type" : "select",
+               "value" : "IdCard",
+               "options" : [
+                              {
+                              "title" : "身份证",
+                              "value" : "IdCard",
+                              "keyboardtype" : "number",
+                              "regex" : "NSLocalizedString(REGEX_IDCARD, )"
+                              },
+                              {
+                              "title" : "护照",
+                              "value" : "PassportID",
+                              "regex" :"NSLocalizedString(REGEX_PASSPORT, )"
+                              },
+                              {
+                              "title" : "军官证",
+                              "value" : "OfficerID",
+                              "regex" : "NSLocalizedString(REGEX_OFFICERID, )"
+                              }
+                              ]
+               },
+               {
+               "key" : "idcode",
+               "title" :"证件号码",
+               "placeholder" : "请输入证件号码",
+               "type" : "text",
+               "regexfrom" : "idtype"
+               },
+               {
+               "key" : "gender",
+               "title" : "性别",
+               "placeholder" : "请选择就诊人性别",
+               "type" : "select",
+               "options" : [
+                              {"title" : "男", "value" : "1"},
+                              {"title" : "女", "value" : "2"}
+                              ]
+               },
+               {
+               "key" : "dob",
+               "title" : "出生日期",
+               "placeholder" : "年  月  日",
+               "type" : "calendar"
+               },
+               {
+               "key" : "phone",
+               "title" : "手机号",
+               "placeholder" : "请输入手机号码",
+               "type" : "text",
+               "value" : "self.defaultPhone ? self.defaultPhone : ",
+               "keyboardtype" : "phone",
+               "regex" : "NSLocalizedString(REGEX_MOBILE, )"
+               },
+               ]
+}

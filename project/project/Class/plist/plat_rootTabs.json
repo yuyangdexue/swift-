@@ -1,0 +1,47 @@
+{
+    "items": [
+              {
+              "title": "乐医",
+              "key": "main_home",
+              "subitems": [
+                           {
+                           "type": "right_bar",
+                           "image": "icon_message",
+                           "image_hl": "icon_message",
+                           "key": "message_center",
+                           "authen": 1
+                           },
+                           {
+                           "type": "tab",
+                           "title": "就诊服务",
+                           "image": "btn_home@2x",
+                           "image_hl": "btn_home_choose@2x"
+                           }
+                           ]
+              },
+              {
+              "title": "健康资讯",
+              "key": "information_home",
+              "subitems": [
+                           {
+                           "type": "tab",
+                           "title": "健康资讯",
+                           "image": "btn_information@2x",
+                           "image_hl": "btn_information_choose@2x"
+                           }
+                           ]
+              },
+              {
+              "title": "个人中心",
+              "key": "personal_home",
+              "subitems": [
+                           {
+                           "type": "tab",
+                           "title": "个人中心",
+                           "image": "btn_me@2x",
+                           "image_hl": "btn_me_choose@2x"
+                           }
+                           ]
+              }
+              ]
+}

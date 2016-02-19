@@ -1,0 +1,31 @@
+{
+    "items1": [
+              {
+              "title" : "缴费",
+              "image" : "hosp_home_pay",
+              "controller" : "BillListViewController"
+              },
+              {
+              "title" : "查看化验单",
+              "image" : "mirco_hospital@3x",
+              "controller" : "AssayListViewController"
+              },
+              {
+              "title" : "候诊排队",
+              "image" : "hosp_home_queue",
+              "controller" : "QueueListViewController"
+              }
+              ],
+    "items2": [
+               {
+               "title" : "费用清单",
+               "image" : "btn_information_choose@3x",
+               "controller" : "InHospitalViewController"
+               },
+               {
+               "title" : "化验单",
+               "image" : "hosp_home_lab@3x",
+               "controller" : "AssayListViewController"
+               }
+               ]
+}
